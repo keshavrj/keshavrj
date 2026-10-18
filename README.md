@@ -2,7 +2,7 @@
   <h1 align="center">Hi there, I'm Keshav Raj 👋</h1>
 
   <a href="https://github.com/keshavrj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+Backend+Developer+%E2%9A%99%EF%B8%8F;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Passionate+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Feature+Planning+%26+Technical+Architecture;Software+Engineer+%40+SpotDraft;Distributed+Systems+%26+High-Throughput+APIs;Performance+Engineering+%26+System+Design" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -15,33 +15,64 @@
 
 ---
 
-### 🌟 About Me
+### 🌟 Executive Summary
 
-- 🔭 **What I Do:** Software Engineer building high-performance backend systems, distributed architectures, and full-stack web applications.
-- 💼 **Focus Areas:** Scalable APIs, enterprise workflows, distributed data processing, and microservice architectures.
-- 🧠 **Machine Learning & AI:** Experience building neural networks (CNNs, image classification) and data-driven pipelines.
-- 🧩 **Algorithmic Problem Solving:** Passionate about Data Structures & Algorithms, regularly practicing competitive programming.
-- 🌍 **Mission:** Contributing to make the world a better place through robust, elegant technology.
-- 📫 **Connect with me:** Reach out on [LinkedIn](https://www.linkedin.com/in/kkeshav/) or via [Email](mailto:keshavsingh3598@gmail.com).
+Backend-focused **Software Engineer with 3+ years of experience** architecting high-performance distributed systems, robust RESTful microservices, and large-scale data pipelines. Currently at **SpotDraft**, where my work bridges **end-to-end technical feature planning (PRDs, architecture, data modeling)** with deep systems engineering (graph query optimizations, distributed locking, and developer tooling).
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🚀 Core Focus & What I Do
+
+- 📐 **Feature Planning & Technical Architecture:** Authoring comprehensive technical PRDs, designing scalable entity-relationship schemas, and leading cross-pod architectural roadmaps from concept to production.
+- ⚡ **High-Performance Distributed Systems:** Solved relationship cycle detection using PostgreSQL recursive CTEs ($O(\text{depth})$ latency, **99% faster**) and engineered distributed state synchronization using Redis locks.
+- 🗄️ **High-Throughput Data & Search:** Architected batch topological metadata engines (**86% DB query reduction**), 20x parallelized PySpark data pipelines, and dual-state Elasticsearch/OpenSearch indexing.
+- 🛠️ **Developer Tooling & Infrastructure:** Spearheaded company-wide modernization to Python 3.12 and `uv` (cutting local onboarding from 1.5 days to 1 hour), backed by cloud services across AWS (S3, EC2, SAM, SQS).
+
+---
+
+### 💼 Professional Journey
+
+#### 🏢 **SpotDraft** — *Software Engineer*
+`Aug 2025 – Present | Bengaluru, India`
+- **Feature Planning & Technical Design (2026 – Present):** Driving architecture and technical design specifications (PRDs) for core platform initiatives—defining domain models, permission engines, integration mappings, and system constraints ahead of execution.
+- **Hierarchical Engine & Graph Optimization:** Architected an automated metadata roll-up engine cutting DB queries by 86% across 20-node contract trees, and replaced in-memory Python topological sorting with PostgreSQL recursive CTEs for a 99% latency drop.
+- **Concurrency & Reliability:** Implemented Redis-based distributed locking to eliminate race conditions during asynchronous rule evaluations.
+- **Platform Modernization:** Upgraded build infrastructure to Python 3.12 and transitioned the build pipeline to `uv`, reducing setup times from 1.5 days to under 1 hour while accelerating CI/CD cycles.
+
+#### 🏢 **Josh Technology Group** — *Senior Software Developer I & Software Developer*
+`Aug 2022 – Aug 2025 | Gurugram, India`
+- **Data Pipeline Engineering:** Redesigned incoming data transformation pipelines using PySpark and optimized cluster parallelism, achieving a **20x performance leap**.
+- **Big Data Analytics:** Built high-throughput S3 Parquet logging pipelines feeding Databricks analytics dashboards.
+- **Microservices & Search:** Engineered scalable assessment platforms and document collection engines with FastAPI, Django, and OpenSearch with multi-part S3 streaming uploads.
+- **Mentorship & Quality:** Led code reviews, mentored junior developers and interns on backend best practices.
+
+---
+
+### 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-| Category | Technologies |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,ts,bash" /> |
-| **Backend & Web** | <img src="https://skillicons.dev/icons?i=django,fastapi,angular,nodejs,html,css" /> |
-| **Data & ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,matlab" /> |
-| **Databases & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,kubernetes,linux,git,github,postman" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,cpp,bash" /> |
+| **Backend & Distributed** | <img src="https://skillicons.dev/icons?i=django,fastapi,redis" /> |
+| **Databases & Search** | <img src="https://skillicons.dev/icons?i=postgres,elasticsearch,mysql" /> |
+| **Data & Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,postman" /> |
+| **Architecture & Planning** | **Technical PRDs**, **System Design**, **Data Modeling**, **Distributed Locking**, **Recursive CTEs** |
+| **Data & Observability** | **`uv`**, **PySpark**, **Databricks**, **Sentry**, **New Relic**, **AWS SAM & SQS** |
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 🎓 Education
+
+- **B.Tech. in Electronics and Communication Engineering**  
+  *Institute of Engineering & Management (IEM), Kolkata* (Aug 2018 – July 2022)
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <a href="https://github.com/keshavrj">
@@ -59,6 +90,6 @@
 ---
 
 <div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i></p>
+  <p><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=100&section=footer" width="100%" />
 </div>
