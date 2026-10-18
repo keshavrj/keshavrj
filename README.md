@@ -88,14 +88,14 @@ Backend-focused **Software Engineer with 3+ years of experience** architecting h
 
 <div align="center">
   <a href="https://github.com/keshavrj">
-    <img src="https://github-readme-stats.vercel.app/api?username=keshavrj&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="175" alt="Keshav's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=keshavrj&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&include_all_commits=true" height="175" alt="Keshav's GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavrj&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" height="175" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 15px;">
   <a href="https://github.com/keshavrj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavrj&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavrj&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&timezone=Asia%2FKolkata" alt="GitHub Streak" />
   </a>
 </div>
 
